@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import telebot
 
 bot = telebot.TeleBot('AAGqvomcrkJ5CC6-hSePdZAYURIXS72C6-4')
