@@ -12,6 +12,5 @@ pyTelegramBotAPI==2.2.3
 requests==2.25.1
 service-identity==21.1.0
 six==1.16.0
-telebot==0.0.4
 TelegramBotAPI==0.3.2
 urllib3==1.26.6
